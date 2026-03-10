@@ -1,0 +1,21 @@
+*{padding: 0;
+margin: 0;
+box-sizing: 0;
+}
+h1{
+    background-color: blue;/* mudar cor do fundo */
+    color: black;/* cor da letra */
+    border-radius: 20px;/* arredondar borda */
+    text-align: center;/* centralizar texto */
+}
+
+
+
+    h2 {
+       text-shadow: 2px 2px 4px black; 
+    }
+    #texto-verde{
+        background-color: green;
+    }
+    p{color: pink;}
+    .texto-azul{color: blue;}
